@@ -1,4 +1,14 @@
 # Byte-compiled / optimized / DLL files
+# Next.js / Node.js
+node_modules/
+.next/
+out/
+.pnpm-store/
+*.tsbuildinfo
+.env*
+!.env.example
+.vercel/
+
 __pycache__/
 *.py[codz]
 *$py.class

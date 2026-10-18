@@ -1,0 +1,3 @@
+# esbuild installs the native executable used by tsx for the auth tests.
+allowBuilds:
+  esbuild: true
